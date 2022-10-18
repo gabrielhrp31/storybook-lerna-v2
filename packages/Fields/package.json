@@ -1,12 +1,12 @@
 {
-  "name": "@gabrielhrp31/inputs",
-  "version": "0.1.2",
-  "publishConfig": {
-    "access": "public"
-  },
-  "dependencies": {
-    "vue-the-mask": "^0.11.1",
-    "vuetify": "^2.6.12"
-  },
-  "gitHead": "2b1fa4784939424f5601822f4614044e01df602f"
+	"name": "@gabrielhrp31/inputs-v2",
+	"version": "0.0.0",
+	"publishConfig": {
+		"access": "public"
+	},
+	"dependencies": {
+		"vue-the-mask": "^0.11.1",
+		"vuetify": "^2.6.12"
+	},
+	"gitHead": "2b1fa4784939424f5601822f4614044e01df602f"
 }
