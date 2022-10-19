@@ -1,5 +1,5 @@
 <template>
-	<v-text-field type="text" :value="display" v-bind="$attrs" v-mask="config" v-on="cmpListeners" @input="onInput" />
+	<v-text-field type="text" :value="display" v-bind="$attrs" v-mask="config" v-on="cmpListeners" @input="onInput" @paste="paste" />
 </template>
 
 <script>
